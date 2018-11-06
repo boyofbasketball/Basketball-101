@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+img {
+  width: 400px;
+  height: 380px;
+object-fit: color;
+}
+
+
+
+body{
+  background:linear-gradient(160deg,#2c7351,#007561,#007573,#007585,#007496,#0071a3,#006dac,#3366ae); 
+   font-family: 'Poppins', sans-serif;
+
+}
+
+
+
+
+
+
+.title{
+  background:linear-gradient(160deg,#2c7351,#21b05d,#34a653,#145f33,#587047,#a9e783,#a1d78e,#22bb43);
+}
+
+font-family: 'Source Sans Pro', sans-serif; font size; 
+}
